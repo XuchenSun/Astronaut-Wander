@@ -20,16 +20,26 @@ Game Developing
 | 12Animation     |        |      |
 
 # 1Pre Map Design
-!(1.png)
+![](1.png)
 
 # 2Enemy1 
+![](2.png)
 # 3Main Character Design
+![](3.png)
 # 4Log In page
+![](4.png)
 # 5Map0
+![](5.png)
 # 6Map1
+![](6.png)
 # 7Task System
-# 8Music Searchn
+
+# 8Music Search
+
 # 9Map2
+
 # 10Map3
+
 # 11Map4
+
 # 12Animation
