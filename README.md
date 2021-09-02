@@ -4,7 +4,21 @@ Game Developing
 # GroupMember Xuchen Sun & Sigan Sun
 
 # Kanban Board
-| Left-aligned | Center-aligned | Right-aligned |
+| Backlog | Progress | Test |
 |      :---   |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| Pre Map Design1to5   | Finished     | Pass    |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
+| git diff     | git diff       | git diff      |
 | git diff     | git diff       | git diff      |
