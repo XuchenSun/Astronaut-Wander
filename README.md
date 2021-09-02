@@ -20,6 +20,8 @@ Game Developing
 | 12Animation     |        |      |
 
 # 1Pre Map Design
+!(1.png)
+
 # 2Enemy1 
 # 3Main Character Design
 # 4Log In page
