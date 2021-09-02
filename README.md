@@ -14,5 +14,7 @@ Game Developing
 | Map1     | Finished(Xuchen)       | Pass(Xuchen)      |
 | Task System     | In Developing(Xuchen)       |       |
 | Music Search     | In Developing(Sigan)       |      |
-| Function Test     |        |      |
-
+| Map2     |        |      |
+| Map3     |        |      |
+| Map4     |        |      |
+| Animation     |        |      |
