@@ -6,15 +6,15 @@ Game Developing
 # Kanban Board
 | Backlog | Progress | Test |
 |      :---   |     :---:      |          ---: |
-| Pre Map0 to Map4 Design   | Finished(Xuchen)     | Pass(Xuchen)    |
-| Enemy1     | Finished(Xuchen)       | Pass(Xuchen)      |
-| Main Character Design     | Finished(Xuchen)       | Pass(Xuchen)      |
-| Log In page     | Finished(Xuchen)       | Pass(Xuchen)     |
-| Map0     | Finished(Xuchen)       | Pass(Xuchen)     |
-| Map1     | Finished(Xuchen)       | Pass(Xuchen)      |
-| Task System     | In Developing(Xuchen)       |       |
-| Music Search     | In Developing(Sigan)       |      |
-| Map2     |        |      |
-| Map3     |        |      |
-| Map4     |        |      |
-| Animation     |        |      |
+| 1Pre Map Design   | Finished(Xuchen)     | Pass(Xuchen)    |
+| 2Enemy1     | Finished(Xuchen)       | Pass(Xuchen)      |
+| 3Main Character Design     | Finished(Xuchen)       | Pass(Xuchen)      |
+| 4Log In page     | Finished(Xuchen)       | Pass(Xuchen)     |
+| 5Map0     | Finished(Xuchen)       | Pass(Xuchen)     |
+| 6Map1     | Finished(Xuchen)       | Pass(Xuchen)      |
+| 7Task System     | In Developing(Xuchen)       |       |
+| 8Music Search     | In Developing(Sigan)       |      |
+| 9Map2     |        |      |
+| 10Map3     |        |      |
+| 11Map4     |        |      |
+| 12Animation     |        |      |
