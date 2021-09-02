@@ -3,7 +3,7 @@ Game Developing
 
 # GroupMember Xuchen Sun & Sigan Sun
 
-# Kanban Board
+# Kanban Board(Agile Development Environment)
 | Backlog | Progress | Test |
 |      :---   |     :---:      |          ---: |
 | 1Pre Map Design   | Finished(Xuchen)     | Pass(Xuchen)    |
