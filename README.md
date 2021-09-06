@@ -34,6 +34,12 @@ Game Developing
 ![](6.png)
 # 7Task System
 ![](https://github.com/XuchenSun/Astronaut-Wander/blob/main/mission.png)
+
+1Press TAB to enter task system and 
+
+2Gray words mean unfinished and white words mean finished
+
+3 Three kind of task system: sequence and parallel 
 # 8Music Search
 
 # 9Map2
