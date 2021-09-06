@@ -33,7 +33,7 @@ Game Developing
 # 6Map1
 ![](6.png)
 # 7Task System
-
+![](https://github.com/XuchenSun/Astronaut-Wander/blob/main/mission.png)
 # 8Music Search
 
 # 9Map2
