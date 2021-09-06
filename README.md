@@ -14,7 +14,7 @@ Game Developing
 | 6Map1     | Finished(Xuchen)       | Pass(Xuchen)      |
 | 7Task System     | Finished(Xuchen)       | Testing(Sigan)      |
 | 8Music Desgin     | Developing(Sigan)       |      |
-| 9Task Objects Desgin     | Developing(Xuchen)       |      |
+| 9Task Objects Desgin(map0)     | Developing(Xuchen)       |      |
 | 10Map2     |        |      |
 | 11Map3     |        |      |
 | 12Map4     |        |      |
@@ -43,10 +43,12 @@ Game Developing
 3 Three kind of task system: sequence and parallel 
 # 8Music Search
 
-# 9Map2
+# 9Task Objects Desgin(map0)
 
-# 10Map3
+# 10Map2
 
-# 11Map4
+# 11Map3
 
-# 12Animation
+# 12Map4
+
+# 13Animation
