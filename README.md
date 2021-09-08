@@ -48,7 +48,7 @@ Game Developing
 
 2 Parallel Task（Electric Control）
 
-![](https://github.com/XuchenSun/Astronaut-Wander/blob/main/mission.png)
+![](https://github.com/XuchenSun/Astronaut-Wander/blob/main/map0taskdesign.png)
 # 10Map2
 
 # 11Map3
