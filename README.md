@@ -44,9 +44,9 @@ Game Developing
 # 8Music Search
 
 # 9Task Objects Desgin(map0)
-1 Linear Task（Reach to Trigger）
+1 Linear Tasks Combination（Wander in SpaceShip）
 
-2 Parallel Task（Electric Control）
+2 Parallel Tasks Combination（Electrical Control）
 
 ![](https://github.com/XuchenSun/Astronaut-Wander/blob/main/map0taskdesign.png)
 # 10Map2
