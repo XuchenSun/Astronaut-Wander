@@ -14,8 +14,8 @@ Game Developing
 | 6Map1     | Finished(Xuchen)       | Pass(Xuchen)      |
 | 7Task System     | Finished(Xuchen)       | Testing(Sigan)      |
 | 8Music Desgin     | Developing(Sigan)       |      |
-| 9Task Objects Desgin(map0)     | Developing(Xuchen)       |      |
-| 10Map2     |        |      |
+| 9Task Objects Desgin(map0)     | Finished(Xuchen)       |      |
+| 10Reload Map0&Map1     |  Developing(Xuchen)      |      |
 | 11Map3     |        |      |
 | 12Map4     |        |      |
 | 13Animation     |        |      |
