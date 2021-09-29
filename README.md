@@ -1,4 +1,4 @@
-# Astronaut-Wander  37 Game Studio
+# Astronaut-Wander 
 Game Developing
 
 # GroupMember Xuchen Sun & Sigan Sun
